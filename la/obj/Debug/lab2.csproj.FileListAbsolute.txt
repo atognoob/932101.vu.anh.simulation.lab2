@@ -1,0 +1,20 @@
+\\Mac\Home\Downloads\immod.lab2-pudov.932001-main\la\la\bin\Debug\lab2.pudov.932001.exe.config
+\\Mac\Home\Downloads\immod.lab2-pudov.932001-main\la\la\bin\Debug\lab2.pudov.932001.exe
+\\Mac\Home\Downloads\immod.lab2-pudov.932001-main\la\la\bin\Debug\lab2.pudov.932001.pdb
+\\Mac\Home\Downloads\immod.lab2-pudov.932001-main\la\la\obj\Debug\lab2.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\immod.lab2-pudov.932001-main\la\la\obj\Debug\la.Properties.Resources.resources
+\\Mac\Home\Downloads\immod.lab2-pudov.932001-main\la\la\obj\Debug\lab2.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\immod.lab2-pudov.932001-main\la\la\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\immod.lab2-pudov.932001-main\la\la\obj\Debug\lab2.pudov.932001.exe
+\\Mac\Home\Downloads\immod.lab2-pudov.932001-main\la\la\obj\Debug\lab2.pudov.932001.pdb
+\\Mac\Home\Downloads\immod.lab2-pudov.932001-main\la\la\obj\Debug\lab2.Form1.resources
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab2\la\bin\Debug\lab2.pudov.932001.exe.config
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab2\la\bin\Debug\lab2.pudov.932001.exe
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab2\la\bin\Debug\lab2.pudov.932001.pdb
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab2\la\obj\Debug\lab2.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab2\la\obj\Debug\lab2.Form1.resources
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab2\la\obj\Debug\la.Properties.Resources.resources
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab2\la\obj\Debug\lab2.csproj.GenerateResource.cache
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab2\la\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab2\la\obj\Debug\lab2.pudov.932001.exe
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab2\la\obj\Debug\lab2.pudov.932001.pdb
